@@ -1,0 +1,84 @@
+Model Name is : CLSTM.depth1.coverage4.illumina
+
+Model Depth is : 1
+Coverage is : 4
+Train Results : CLSTM.depth1.coverage4.illumina
+
+Categorical Accuracy is 0.027153801172971725
+
+loss is 5.96823263168335
+Validation Results : CLSTM.depth1.coverage4.illumina
+
+Categorical Accuracy is 0.024547871202230453
+
+loss is 5.961076259613037
+Test Results : CLSTM.depth1.coverage4.illumina
+
+Categorical Accuracy is 0.025340627878904343
+
+loss is 5.9785237312316895
+Model Name is : CLSTM.depth1.coverage3.illumina
+
+Model Depth is : 1
+Coverage is : 3
+Train Results : CLSTM.depth1.coverage3.illumina
+
+Categorical Accuracy is 0.020638974383473396
+
+loss is 5.890860080718994
+Validation Results : CLSTM.depth1.coverage3.illumina
+
+Categorical Accuracy is 0.023192787542939186
+
+loss is 5.905369758605957
+Test Results : CLSTM.depth1.coverage3.illumina
+
+Categorical Accuracy is 0.020695706829428673
+
+loss is 5.894501686096191
+Model Name is : CLSTM.depth1.coverage2.illumina
+
+Model Depth is : 1
+Coverage is : 2
+Model Name is : CLSTM.depth2.coverage4.illumina
+
+Model Depth is : 2
+Coverage is : 4
+Train Results : CLSTM.depth2.coverage4.illumina
+
+Categorical Accuracy is 0.027570750564336777
+
+loss is 5.015861511230469
+Validation Results : CLSTM.depth2.coverage4.illumina
+
+Categorical Accuracy is 0.02731015719473362
+
+loss is 5.022072792053223
+Test Results : CLSTM.depth2.coverage4.illumina
+
+Categorical Accuracy is 0.027095375582575798
+
+loss is 5.0132951736450195
+Model Name is : CLSTM.depth2.coverage3.illumina
+
+Model Depth is : 2
+Coverage is : 3
+Train Results : CLSTM.depth2.coverage3.illumina
+
+Categorical Accuracy is 0.019231772050261497
+
+loss is 5.855872631072998
+Validation Results : CLSTM.depth2.coverage3.illumina
+
+Categorical Accuracy is 0.019127534702420235
+
+loss is 5.825626373291016
+Test Results : CLSTM.depth2.coverage3.illumina
+
+Categorical Accuracy is 0.01935384050011635
+
+loss is 5.8303070068359375
+Model Name is : CLSTM.depth2.coverage2.illumina
+
+Model Depth is : 2
+Coverage is : 2

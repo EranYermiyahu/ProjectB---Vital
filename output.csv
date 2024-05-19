@@ -1,0 +1,2 @@
+Model Name,Model Depth,Coverage,Train Categorical Accuracy,Validation Categorical Accuracy,Test Categorical Accuracy
+Vit_ex.depth8.coverage4.illumina,8,4,0.0,0.0,0.0

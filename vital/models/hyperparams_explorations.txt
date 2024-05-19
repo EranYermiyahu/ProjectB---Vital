@@ -1,0 +1,4 @@
+Model Name is : Conv.1.4.illumina.do.0.1.lr.0.01.reg.5e-05
+
+Model Depth is : 1
+Coverage is : 4
